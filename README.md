@@ -27,24 +27,23 @@ Booleanos (bool): Valores de Verdadero (True) o Falso (False).
 3. Condicionales (Decisiones)
 Permiten que tu programa tome caminos diferentes según la situación. Funcionan como un "Si pasa esto, haz A; si pasa lo otro, haz B".
 
-Python
 edad = 20
 
 if edad >= 18:
     print("Eres mayor de edad.")
 else:
     print("Eres menor de edad.")
+    
 4. Bucles o Ciclos (Repetición)
 Sirven para automatizar tareas repetitivas sin tener que escribir el mismo código varias veces.
 
-Python
 # Imprime los números del 0 al 4
 for i in range(5):
     print(f"Número: {i}")
+    
 5. Funciones
 Son pequeños bloques de código reutilizables. Creas una receta una sola vez y la puedes invocar las veces que necesites.
 
-Python
 def saludar(nombre):
     return f"¡Hola, {nombre}! Bienvenido a la programación."
 
