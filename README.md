@@ -50,6 +50,8 @@ def saludar(nombre):
 # Uso de la función
 mensaje = saludar("Python")
 print(mensaje)
+
+
 🛠️ Primeros Pasos Sugeridos
 Instalación: Descarga e instala Python desde su sitio web oficial.
 
